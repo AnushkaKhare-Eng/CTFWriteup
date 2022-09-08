@@ -1,8 +1,8 @@
 ## PicoCTF
-###The challenge was called Enhance!
+### The challenge was called Enhance!
 For the challenge we are given the file drawing.flag.svg
 
-###Solving the challenge
+### Solving the challenge
 To solve this challenge I used the following command:
 
 ```
