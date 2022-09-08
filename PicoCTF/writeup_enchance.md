@@ -1,4 +1,4 @@
-##PicoCTF
+## PicoCTF
 ###The challenge was called Enhance!
 For the challenge we are given the file drawing.flag.svg
 
